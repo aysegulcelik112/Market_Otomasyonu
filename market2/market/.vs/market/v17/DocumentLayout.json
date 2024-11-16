@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\market\\market\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C936B211-3B1A-4D2D-9229-B825CCEC7418}|market\\market.csproj|c:\\market\\market\\market\\meyvesebzepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C936B211-3B1A-4D2D-9229-B825CCEC7418}|market\\market.csproj|solutionrelative:market\\meyvesebzepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C936B211-3B1A-4D2D-9229-B825CCEC7418}|market\\market.csproj|C:\\market\\market\\market\\meyvesebzepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C936B211-3B1A-4D2D-9229-B825CCEC7418}|market\\market.csproj|solutionrelative:market\\meyvesebzepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C936B211-3B1A-4D2D-9229-B825CCEC7418}|market\\market.csproj|C:\\market\\market\\market\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C936B211-3B1A-4D2D-9229-B825CCEC7418}|market\\market.csproj|solutionrelative:market\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C936B211-3B1A-4D2D-9229-B825CCEC7418}|market\\market.csproj|C:\\market\\market\\market\\kasiyerpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C936B211-3B1A-4D2D-9229-B825CCEC7418}|market\\market.csproj|solutionrelative:market\\kasiyerpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C936B211-3B1A-4D2D-9229-B825CCEC7418}|market\\market.csproj|C:\\market\\market\\market\\sifredegistirme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C936B211-3B1A-4D2D-9229-B825CCEC7418}|market\\market.csproj|solutionrelative:market\\sifredegistirme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C936B211-3B1A-4D2D-9229-B825CCEC7418}|market\\market.csproj|C:\\market\\market\\market\\dao\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C936B211-3B1A-4D2D-9229-B825CCEC7418}|market\\market.csproj|solutionrelative:market\\dao\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C936B211-3B1A-4D2D-9229-B825CCEC7418}|market\\market.csproj|C:\\market\\market\\market\\controller\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C936B211-3B1A-4D2D-9229-B825CCEC7418}|market\\market.csproj|solutionrelative:market\\controller\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C936B211-3B1A-4D2D-9229-B825CCEC7418}|market\\market.csproj|C:\\market\\market\\market\\enumaration\\loginstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C936B211-3B1A-4D2D-9229-B825CCEC7418}|market\\market.csproj|solutionrelative:market\\enumaration\\loginstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C936B211-3B1A-4D2D-9229-B825CCEC7418}|market\\market.csproj|C:\\market\\market\\market\\kasiyerpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C936B211-3B1A-4D2D-9229-B825CCEC7418}|market\\market.csproj|solutionrelative:market\\kasiyerpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C936B211-3B1A-4D2D-9229-B825CCEC7418}|market\\market.csproj|C:\\market\\market\\market\\adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C936B211-3B1A-4D2D-9229-B825CCEC7418}|market\\market.csproj|solutionrelative:market\\adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C936B211-3B1A-4D2D-9229-B825CCEC7418}|market\\market.csproj|C:\\market\\market\\market\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C936B211-3B1A-4D2D-9229-B825CCEC7418}|market\\market.csproj|solutionrelative:market\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C936B211-3B1A-4D2D-9229-B825CCEC7418}|market\\market.csproj|C:\\market\\market\\market\\sifredegistirme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C936B211-3B1A-4D2D-9229-B825CCEC7418}|market\\market.csproj|solutionrelative:market\\sifredegistirme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C936B211-3B1A-4D2D-9229-B825CCEC7418}|market\\market.csproj|C:\\market\\market\\market\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C936B211-3B1A-4D2D-9229-B825CCEC7418}|market\\market.csproj|solutionrelative:market\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C936B211-3B1A-4D2D-9229-B825CCEC7418}|market\\market.csproj|C:\\market\\market\\market\\model\\logintable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C936B211-3B1A-4D2D-9229-B825CCEC7418}|market\\market.csproj|solutionrelative:market\\model\\logintable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\market\\market\\market\\Form1.cs",
+              "RelativeDocumentMoniker": "market\\Form1.cs",
+              "ToolTip": "C:\\market\\market\\market\\Form1.cs [Design]",
+              "RelativeToolTip": "market\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T10:46:00.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KasiyerPanel.cs",
+              "DocumentMoniker": "C:\\market\\market\\market\\KasiyerPanel.cs",
+              "RelativeDocumentMoniker": "market\\KasiyerPanel.cs",
+              "ToolTip": "C:\\market\\market\\market\\KasiyerPanel.cs",
+              "RelativeToolTip": "market\\KasiyerPanel.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCAAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T20:22:20.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SifreDegistirme.cs [Design]",
+              "DocumentMoniker": "C:\\market\\market\\market\\SifreDegistirme.cs",
+              "RelativeDocumentMoniker": "market\\SifreDegistirme.cs",
+              "ToolTip": "C:\\market\\market\\market\\SifreDegistirme.cs [Design]",
+              "RelativeToolTip": "market\\SifreDegistirme.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T16:00:15.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "meyveSebzePanel.cs",
+              "DocumentMoniker": "C:\\market\\market\\market\\meyveSebzePanel.cs",
+              "RelativeDocumentMoniker": "market\\meyveSebzePanel.cs",
+              "ToolTip": "C:\\market\\market\\market\\meyveSebzePanel.cs",
+              "RelativeToolTip": "market\\meyveSebzePanel.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T21:46:48.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Controller.cs",
+              "DocumentMoniker": "C:\\market\\market\\market\\controller\\Controller.cs",
+              "RelativeDocumentMoniker": "market\\controller\\Controller.cs",
+              "ToolTip": "C:\\market\\market\\market\\controller\\Controller.cs",
+              "RelativeToolTip": "market\\controller\\Controller.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAYwCIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T12:28:09.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\market\\market\\market\\dao\\Repository.cs",
+              "RelativeDocumentMoniker": "market\\dao\\Repository.cs",
+              "ToolTip": "C:\\market\\market\\market\\dao\\Repository.cs",
+              "RelativeToolTip": "market\\dao\\Repository.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAADwv2oAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T12:28:41.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "meyveSebzePanel.cs [Design]",
+              "DocumentMoniker": "C:\\market\\market\\market\\meyveSebzePanel.cs",
+              "RelativeDocumentMoniker": "market\\meyveSebzePanel.cs",
+              "ToolTip": "C:\\market\\market\\market\\meyveSebzePanel.cs [Design]",
+              "RelativeToolTip": "market\\meyveSebzePanel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T21:15:54.556Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginStatus.cs",
+              "DocumentMoniker": "C:\\market\\market\\market\\enumaration\\LoginStatus.cs",
+              "RelativeDocumentMoniker": "market\\enumaration\\LoginStatus.cs",
+              "ToolTip": "C:\\market\\market\\market\\enumaration\\LoginStatus.cs",
+              "RelativeToolTip": "market\\enumaration\\LoginStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T13:10:08.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "KasiyerPanel.cs [Design]",
+              "DocumentMoniker": "C:\\market\\market\\market\\KasiyerPanel.cs",
+              "RelativeDocumentMoniker": "market\\KasiyerPanel.cs",
+              "ToolTip": "C:\\market\\market\\market\\KasiyerPanel.cs [Design]",
+              "RelativeToolTip": "market\\KasiyerPanel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T18:49:26.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminPanel.cs [Design]",
+              "DocumentMoniker": "C:\\market\\market\\market\\AdminPanel.cs",
+              "RelativeDocumentMoniker": "market\\AdminPanel.cs",
+              "ToolTip": "C:\\market\\market\\market\\AdminPanel.cs [Design]",
+              "RelativeToolTip": "market\\AdminPanel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T18:50:36.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\market\\market\\market\\Form1.cs",
+              "RelativeDocumentMoniker": "market\\Form1.cs",
+              "ToolTip": "C:\\market\\market\\market\\Form1.cs",
+              "RelativeToolTip": "market\\Form1.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T11:40:22.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SifreDegistirme.cs",
+              "DocumentMoniker": "C:\\market\\market\\market\\SifreDegistirme.cs",
+              "RelativeDocumentMoniker": "market\\SifreDegistirme.cs",
+              "ToolTip": "C:\\market\\market\\market\\SifreDegistirme.cs",
+              "RelativeToolTip": "market\\SifreDegistirme.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAIwKAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T16:18:45.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\market\\market\\market\\model\\User.cs",
+              "RelativeDocumentMoniker": "market\\model\\User.cs",
+              "ToolTip": "C:\\market\\market\\market\\model\\User.cs",
+              "RelativeToolTip": "market\\model\\User.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T18:22:10.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginTable.cs",
+              "DocumentMoniker": "C:\\market\\market\\market\\model\\LoginTable.cs",
+              "RelativeDocumentMoniker": "market\\model\\LoginTable.cs",
+              "ToolTip": "C:\\market\\market\\market\\model\\LoginTable.cs",
+              "RelativeToolTip": "market\\model\\LoginTable.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T21:17:05.832Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

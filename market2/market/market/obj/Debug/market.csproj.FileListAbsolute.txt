@@ -1,0 +1,14 @@
+C:\market\market\market\bin\Debug\market.exe.config
+C:\market\market\market\bin\Debug\market.exe
+C:\market\market\market\bin\Debug\market.pdb
+C:\market\market\market\obj\Debug\market.csproj.AssemblyReference.cache
+C:\market\market\market\obj\Debug\market.Form1.resources
+C:\market\market\market\obj\Debug\market.Properties.Resources.resources
+C:\market\market\market\obj\Debug\market.csproj.GenerateResource.cache
+C:\market\market\market\obj\Debug\market.csproj.CoreCompileInputs.cache
+C:\market\market\market\obj\Debug\market.exe
+C:\market\market\market\obj\Debug\market.pdb
+C:\market\market\market\obj\Debug\market.SifreDegistirme.resources
+C:\market\market\market\obj\Debug\market.AdminPanel.resources
+C:\market\market\market\obj\Debug\market.KasiyerPanel.resources
+C:\market\market\market\obj\Debug\market.meyveSebzePanel.resources
